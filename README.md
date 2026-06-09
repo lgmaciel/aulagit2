@@ -10,4 +10,7 @@ Repositório de testes da aula 2 sobre GIT.
 
 Lorem ipsum dolor sit amet...
 
+
 Leia a [parte I](parte1.md) - abc, xyz, 1234
+
+Leia agora a [parte 2](parte2.md)
